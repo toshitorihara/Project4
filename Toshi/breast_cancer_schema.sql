@@ -1,5 +1,8 @@
+DROP TABLE IF EXISTS breast_cancer;
+
 -- from sklearn.datasets (load_breast_cancer)
 CREATE TABLE breast_cancer (	
+	id INTEGER,
 	mean_radius FLOAT,
 	mean_texture FLOAT,
 	mean_perimeter FLOAT,
@@ -30,4 +33,7 @@ CREATE TABLE breast_cancer (
 	worst_concave_points FLOAT,
 	worst_symmetry FLOAT,
 	worst_fractal_dimension FLOAT,
-); 
+	target INTEGER
+);
+
+SELECT * FROM breast_cancer
