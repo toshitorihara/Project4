@@ -30,10 +30,10 @@ To better transfer to a SQL Database:
 Attempted 3 different models with different configurations of neurons, layers, and activation function<p>
 ![image](Toshi/report/nn_model.png)
 
-## 3. Principal Component - Visualization of clusters with KMeans
-Applied PCA into 3 dimensions for cluster visualization<p>
+## 3. Principal Component Analysis - Visualization of clusters with KMeans
+Applied PCA and spread the dataset into 3 dimensions for cluster visualization<p>
 ![image](Toshi/report/pca.png)<p>
-Plotted the 3 principal components with KMean using plotly<p>
+Generated plotly graph of 3 principal components using KMean<p>
 ![image](Toshi/report/newplot.png)<p>
 
 ## 4. Random Forest Classifier
