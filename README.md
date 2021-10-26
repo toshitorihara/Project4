@@ -15,7 +15,7 @@ Everett Waterman<br>
 `SQL Database`
 
 ## Data Source
-TBD
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
 
 ## 1. Data Preprocessing
 ## 2. Compiling, Training, and Evaluating the Model
