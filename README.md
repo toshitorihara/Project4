@@ -27,7 +27,7 @@ To better transfer to a SQL Database:
 ![SQL DB](/mfarm/SQL_DB.png)
 
 ## 2. Neural Network Model - Compile, Train, Evaluate, and Optimize the Model
-Attempted 3 different models with different configurations of neurons, layers, and activation function<p>
+Attempted 3 different models with various configurations of neurons, layers, and activation function<p>
 ![image](Toshi/report/nn_model.png)
 
 ## 3. Principal Component Analysis - Visualization of clusters with KMeans
