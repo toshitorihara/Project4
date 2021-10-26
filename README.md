@@ -18,6 +18,7 @@ Everett Waterman<br>
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
 
 ## 1. Data Preprocessing
+[SQL DB](/mfarm/SQL_DB.png)
 ## 2. Compiling, Training, and Evaluating the Model
 ## 3. Optimizing the Model
 ## 4. Results
