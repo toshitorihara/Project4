@@ -26,7 +26,7 @@ To better transfer to a SQL Database:
 
 ![SQL DB](/mfarm/SQL_DB.png)
 
-## 2. Neural Network Model - Compile, Train, Evaluate, and Optimize the Model
+## 2. Neural Network Model - Compile, Train, Evaluate, and Optimize
 Attempted 3 different models with various configurations of neurons, layers, and activation function<p>
 ![image](Toshi/report/nn_model.png)
 
