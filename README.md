@@ -25,7 +25,17 @@ Modified the Original Dataset:
 To better transfer to a SQL Database:
 
 ![SQL DB](/mfarm/SQL_DB.png)
-## 2. Compiling, Training, and Evaluating the Model
-## 3. Optimizing the Model
-## 4. Results
 
+## 2. Neural Network Model - Compile, Train, Evaluate, and Optimize the Model
+Attempted 3 different models with different configurations of neurons, layers, and activation function<p>
+![image](Toshi/report/nn_model.png)
+
+## 3. Principal Component - Visualization of clusters with KMeans
+Applied PCA into 3 dimensions for cluster visualization<p>
+![image](Toshi/report/pca.png)<p>
+Plotted the 3 principal components with KMean using plotly<p>
+![image](Toshi/report/newplot.png)<p>
+
+## 4. Random Forest Classifier
+## 5. Feature Importance
+## 6. Conclusion
