@@ -1,0 +1,9 @@
+Principal component analysis (PCA) 
+is a technique for reducing the dimensionality of such datasets, increasing interpretability 
+but at the same time minimizing information loss. It does so by creating new uncorrelated 
+variables that successively maximize variance.
+
+What is Variance Ratio?
+Variance ratio or co-efficient of dispersion is defined as the ratio of variance to mean. 
+It is defined only for those models, where the mean is non zero. 
+It is frequently used with exponential and Poisson distribution for count data etc.
