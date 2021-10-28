@@ -38,6 +38,6 @@ Generated plotly graph of 3 principal components using KMean<p>
 
 ## 4. Random Forest Classifier - Feature Importance
 Plotted random forest feature importance using Seaborn<p>
-![Image](choxie/rf_feat_imp.png)
+![Image](Images/Random_Forest_Seaborn.png)
   
 ## 5. Summary
