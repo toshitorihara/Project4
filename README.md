@@ -36,7 +36,7 @@ Applied PCA and spread the dataset into 3 dimensions for cluster visualization<p
 Generated plotly graph of 3 principal components using KMean<p>
 ![image](Toshi/report/newplot.png)<p>
 
-## 4. Random Forest Classifier
+## 4. Random Forest Classifier - Feature Importance
 Plotted random forest feature importance using Seaborn<p>
 ![Image](choxie/rf_feat_imp.png)
   
