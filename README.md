@@ -1,4 +1,4 @@
-# Breast Cancer Identifier - Machine Learning Integration Project
+# Breast Cancer Identifier
 
 ## Objective
 To apply machine learning from an available dataset, and create a model to predict whether breast cell tissue is malignant or benign using set of tools as below.
